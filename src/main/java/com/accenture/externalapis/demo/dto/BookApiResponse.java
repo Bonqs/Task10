@@ -6,6 +6,6 @@ public record BookApiResponse(Long id,
                               String genre,
                               double price,
                               String isbn,
-                              int publicationYear) {
+                              int publishedYear) {
 
 }
